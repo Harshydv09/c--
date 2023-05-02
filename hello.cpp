@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
 int main(){
-    cout<<"hello"<<endl;
+    cout<<"hello";
     return 0;
 }
